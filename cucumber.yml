@@ -1,0 +1,8 @@
+---
+
+default: -p pretty -p html
+features: --require features './features/specs/'
+pretty: --format pretty
+html: --format html --out=report/report.html
+
+
