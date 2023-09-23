@@ -20,7 +20,7 @@ Este projeto tem o objetivo de realizar testes de API utilizando Ruby, Cucumber 
    bundle install
    ```
 
-   Isso instalará todas as gemas necessárias, incluindo Cucumber e HTTParty.
+   Isso instalará todas as gems necessárias, incluindo Cucumber e HTTParty.
 
 2. **Configuração da Chave da API da Marvel**
 
