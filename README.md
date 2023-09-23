@@ -56,8 +56,8 @@ Isso iniciará a execução dos cenários de teste definidos no diretório `feat
 Ao final da execução dos testes, um relatório será gerado na pasta `report`. Abra e analise a execução.
 
 
-# Autor
+## Autor
 
 
-![Gustavo Thizon Waterkemper](https://www.linkedin.com/in/gustavo-thizon/)
+[Gustavo Thizon Waterkemper](https://www.linkedin.com/in/gustavo-thizon/)
 
