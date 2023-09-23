@@ -59,5 +59,5 @@ Ao final da execução dos testes, um relatório será gerado na pasta `report`.
 # Autor
 
 
-`[Gustavo Thizon Waterkemper](https://www.linkedin.com/in/gustavo-thizon/)`
+![Gustavo Thizon Waterkemper](https://www.linkedin.com/in/gustavo-thizon/)
 
